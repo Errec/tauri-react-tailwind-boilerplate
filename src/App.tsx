@@ -1,11 +1,11 @@
-import './App.css'
+import './index.css'
 
 function App() {
 
   return (
-    <>
-      <h1>HELLO</h1>
-    </>
+    <div>
+      <h1 className='bg-tractian-blue-400 text-white '>Tractian Ativos</h1>
+    </div>
   )
 }
 
