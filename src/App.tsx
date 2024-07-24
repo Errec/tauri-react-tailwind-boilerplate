@@ -4,7 +4,7 @@ function App() {
 
   return (
     <div>
-      <h1 className='bg-tractian-blue-400 text-white '>Tractian Ativos</h1>
+      <h1 className='bg-tractian-blue-400 text-white '>Hello!</h1>
     </div>
   )
 }
